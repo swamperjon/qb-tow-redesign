@@ -1,0 +1,31 @@
+
+
+#tow job default
+qb-core/shared/jobs
+
+
+tow = {
+    label = 'Tow Service',
+    type = 'tow',
+    defaultDuty = false,
+    offDutyPay = false,
+    grades = {
+        ['0'] = {
+            name = 'Trainee',
+            payment = 40
+        },
+        ['1'] = {
+            name = 'Tow Operator',
+            payment = 60
+        },
+        ['2'] = {
+            name = 'Supervisor',
+            isboss = true,
+            payment = 85
+        }
+    }
+},
+
+#You can add new tow vehicles to your server and add there spawn names in config file.
+
+
