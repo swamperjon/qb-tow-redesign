@@ -5,7 +5,8 @@ Discord:https://discord.gg/Pw92Sa6cFF  (swamper server)
 
 A QBCore towing and roadside-assistance job with contract progression, NPC recoveries, configurable tow rigs, and player-initiated tow requests. Contract state and payouts are validated on the server; progression is saved in QBCore player metadata.
 
-#Screeshot:
+##Screeshot
+![Model](https://github.com/swamperjon/qb-tow-redesign/blob/main/towscreenshot.webp)
 
 
 ## Requirements
