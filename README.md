@@ -39,8 +39,8 @@ The resource does not require a database migration or a specific phone resource.
 ## Setup
 
 1. Add `ensure qb-towjob` after its requirements in `server.cfg`.
-2. Give the towing job the job name `tow` in your QBCore jobs configuration.
-3. Configure the tow vehicle models, tow attachment offsets, locations, progression, and rewards in `config.lua` and `shared/contracts.lua`.
+2. Give the towing job the job name `tow` in your QBCore jobs configuration. (see tow-notes)
+3. Configure the tow vehicle models, tow attachment offsets, locations, progression, and rewards in `config.lua` and `shared/contracts.lua`. (see tow-notes)
 4. Ensure the configured vehicle models are available on your server. Custom tow vehicles can be added to `Config.Vehicles`; configure their attachment offsets in `Config.TowOffsets`.
 5. Set up your server's radial-menu entries to invoke the client events listed below if you want radial access.
 
