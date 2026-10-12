@@ -1,5 +1,5 @@
-# qb-towjob Redisign  (swamperjon)
-Link:https://github.com/swamperjon/qb-towjob-redisign
+# qb-towjob Redesign  (swamperjon)
+Link:https://github.com/swamperjon/qb-towjob-redesign
 Store:Free:https://swampergaming.tip4serv.com/
 Discord:https://discord.gg/Pw92Sa6cFF  (swamper server)
 
